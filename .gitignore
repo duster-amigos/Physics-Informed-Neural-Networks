@@ -61,7 +61,6 @@ coverage.xml
 .pyre/
 
 # Data and results
-*.npz
 *.mat
 results/
 plots/ 
